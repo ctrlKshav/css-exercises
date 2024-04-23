@@ -1,0 +1,17 @@
+.c1{
+    background-color: rgb(239, 95, 162);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#n2{
+    color: blue;
+    font-size: 38px;
+}
+#n4{
+    font-weight: bold;
+    background-color: #00ff0099;
+    font-style: 24px;
+}
+.c1.c2{
+    font-weight: bold;
+    
+}
