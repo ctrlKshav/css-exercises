@@ -1,0 +1,11 @@
+.button{
+    font-size: 40px;
+}
+.button.c1{
+    background-color: black;
+    color: white;
+}
+.button.c2{
+    background-color: #ffff00;
+    border-color: gray;
+}
